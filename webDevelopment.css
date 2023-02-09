@@ -1,0 +1,59 @@
+.pic-courses {
+    height: fit-content;
+    width: 100%;
+}
+
+.Web-course {
+    height: fit-content;
+    width: 320px;
+}
+
+.head-web {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+}
+
+.web-description {
+    font-family: serif;
+    font-weight: 200;
+    font-size: 20px;
+}
+
+.apply {
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: darkorange;
+    color: white;
+    border: 2px solid darkorange;
+}
+
+.feedback-students {
+    font-weight: 900;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.message-faculty {
+    font-weight: 900;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkorange;
+}
+
+.faculty-message{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.faculty-photo{
+    font-size: 800;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkorange;
+}
+.student-experience{
+    background-color: black;
+    color: whitesmoke;
+}
+.students-project{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.git{
+    font-size: 30px;
+}

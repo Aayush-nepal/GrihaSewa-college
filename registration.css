@@ -1,0 +1,39 @@
+.Registration-page {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 2px;
+    color: darkorange;
+    font-weight: 400;
+}
+
+.registration-border {
+    padding-top: 10px;
+    padding-left: 20px;
+    background-color: rgb(20, 20, 19);
+    color: aliceblue;
+}
+
+.form-label {
+    font-size: 25px;
+}
+
+.form-submit {
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+    color: darkorange !important;
+    font-size: 20px;
+}
+
+.enter-value {
+    font-size: 19px;
+    width: 250px;
+}
+
+.enter-value-select {
+    font-size: 19px;
+    height: 30px;
+    width: 250px;
+}
+
+.form-submit:hover {
+    color: white !important;
+    background: darkorange !important;
+}
